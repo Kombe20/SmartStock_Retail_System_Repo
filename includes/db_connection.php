@@ -3,7 +3,7 @@
 // Database configuration
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Go1d3fre#y";
 $dbname = "smartstock_db";
 
 // Create connection
